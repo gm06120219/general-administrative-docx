@@ -1,0 +1,84 @@
+{
+  "title": "关于开展2026年度行政公文规范培训的通知",
+  "document_type": "通知",
+  "mode": "ordinary",
+  "unit_name": "示例单位办公室",
+  "date": "2026年9月28日",
+  "version": "1.0",
+  "recipient": "各部门、各所属单位：",
+  "page_numbers": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "为进一步规范行政公文编制工作，提升文稿质量和办理效率，经研究，决定组织开展2026年度行政公文规范培训。现将有关事项通知如下。"
+    },
+    {
+      "type": "heading1",
+      "text": "培训目标"
+    },
+    {
+      "type": "paragraph",
+      "text": "围绕公文文种选择、内容结构、格式规范和审核要点开展系统培训，推动各部门形成统一、准确、简洁的办文标准。"
+    },
+    {
+      "type": "heading1",
+      "text": "培训安排"
+    },
+    {
+      "type": "heading2",
+      "text": "培训时间"
+    },
+    {
+      "type": "paragraph",
+      "text": "2026年10月15日上午9时至11时30分。"
+    },
+    {
+      "type": "heading2",
+      "text": "培训内容"
+    },
+    {
+      "type": "heading3",
+      "text": "公文版式规范"
+    },
+    {
+      "type": "paragraph",
+      "text": "重点讲解纸型、版心、字体字号、标题层级、落款和姓名列表等要求。"
+    },
+    {
+      "type": "heading3",
+      "text": "常见问题纠正"
+    },
+    {
+      "type": "paragraph",
+      "text": "结合实例说明口径不一致、层级过多、序号不规范和格式混乱等问题的修改方法。"
+    },
+    {
+      "type": "heading1",
+      "text": "参加人员"
+    },
+    {
+      "type": "names",
+      "names": ["张三", "李四", "王小明", "赵六", "周小华", "吴刚", "郑小雨", "孙七", "钱明", "冯晓东"]
+    },
+    {
+      "type": "heading1",
+      "text": "工作要求"
+    },
+    {
+      "type": "heading2",
+      "text": "做好参训组织"
+    },
+    {
+      "type": "heading3",
+      "text": "按时报送名单"
+    },
+    {
+      "type": "heading4",
+      "text": "报送方式"
+    },
+    {
+      "type": "paragraph",
+      "text": "请各部门于2026年10月10日前将参训名单报送示例单位办公室。"
+    }
+  ]
+}
