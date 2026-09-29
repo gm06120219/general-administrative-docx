@@ -5,7 +5,7 @@
 ## 安装
 
 ```powershell
-npx skills add https://github.com/<owner>/<repo> --skill general-administrative-docx
+npx skills add https://github.com/gm06120219/general-administrative-docx --skill general-administrative-docx
 ```
 
 本地开发时，也可以把整个 `general-administrative-docx` 目录复制到个人 skills 目录。不要只复制 `SKILL.md`。
